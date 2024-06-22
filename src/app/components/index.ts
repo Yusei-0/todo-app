@@ -5,6 +5,7 @@ export * from './card-stats-number/card-stats-number.component';
 export * from './card-stats-title/card-stats-title.component';
 export * from './card-stats/card-stats.component';
 export * from './card/card.component';
+export * from './index';
 export * from './task-card-ok-btn/task-card-ok-btn.component';
 export * from './task-card-options/task-card-options.component';
 export * from './task-card-subtask-btn/task-card-subtask-btn.component';
